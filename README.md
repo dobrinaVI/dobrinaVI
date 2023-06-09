@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dobrina!
-- 👀 I’m passionate about complex data and solvingreal world challenges through it.
+- 👀 I’m passionate about complex data and solving real world challenges through it.
 - 🌱 I’m currently developing my knowledge in AI/ML via [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/dobrinaVI)
 
 <!---
