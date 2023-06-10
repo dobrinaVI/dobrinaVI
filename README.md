@@ -1,5 +1,3 @@
-🚧 UNDER CONSTRUCTION 🚧
-
 - 👋 Hi, I’m Dobrina!
 - 👀 I’m passionate about working with complex data and leveraging it to solve real-world challenges.
 - 🌱 I’m currently focused on expanding my knowledge and skills in AI/ML, using [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/dobrinaVI)
